@@ -7,4 +7,4 @@ Also I'm a Front-End developer for <a target="_blank" href="https://www.aggmetec
 
 You can check my website soon to know more about me. 📚
 
-I enjoy building with news Frameworks and build interactive prototypes using hardware. 🤓
+I enjoy building with news Frameworks and build interactive prototypes using hardware with Raspberry Pi. 🤓
